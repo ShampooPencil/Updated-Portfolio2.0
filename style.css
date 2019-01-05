@@ -1,0 +1,6 @@
+ul li:hover{
+    font-size: 25px;
+}
+#about:hover,#portfolio:hover,#contact:hover{
+    font-size: 20px;
+}
